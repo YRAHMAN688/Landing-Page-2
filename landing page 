@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yahya Rahman – Realtor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Yahya Rahman – Realtor</h1>
+        <p>Your Trusted Realtor in Dubai & Michigan</p>
+    </header>
+    
+    <section class="contact">
+        <a href="https://www.facebook.com/share/15ixYnZvWQ/?mibextid=LQQJ4d" class="social-link" target="_blank">
+            <img src="facebook-icon.png" alt="Facebook">
+        </a>
+        <a href="https://www.instagram.com/realtor_yahya_rahman/profilecard/?igsh=MTQ1MDl3anBqMjUyeg==" class="social-link" target="_blank">
+            <img src="instagram-icon.png" alt="Instagram">
+        </a>
+        <a href="tel:+13476594540" class="call-link">
+            <img src="call-icon.png" alt="Call Now">
+            Call Now
+        </a>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Yahya Rahman</p>
+    </footer>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.contact {
+    margin-top: 50px;
+}
+
+.social-link {
+    margin: 10px;
+    display: inline-block;
+}
+
+.social-link img {
+    width: 50px;
+    height: 50px;
+}
+
+.call-link {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+    text-decoration: none;
+    background-color: #ff6600;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.call-link:hover {
+    background-color: #e55b00;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    margin-top: 50px;
+}
+<a href="https://www.facebook.com/share/15ixYnZvWQ/?mibextid=LQQJ4d" class="social-link" target="_blank">
+    <img src="facebook-icon.png" alt="Facebook">
+</a>
+
